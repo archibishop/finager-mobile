@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "finager-mobile-android",
+  "private_key_id": "d677d2cdd1228d8a05e19a8e8abb28b9e6c0791b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNYG0BY3HBtEjG\n3U7+PHXFIkwcqoG2R27EuZOpqJcxOckn6M2BNLg6FQcfkTeY1qG6I86Up9bRZoRG\nDyVwsvFOhMSG7ZlsBYXgCePWjBgzrXQaw/B37HUJIj1JCp4wiX7O73aLBDfqfdUa\nceT83zJjoe/aXyh4XlLjnPS0JN76pdxo3ATXpc9JE73rciHNHOsG5xlUo0vOclPn\nNZ3cppVogPlVndgX8CXQtlUAvDWBdXtxa5hMVuMinnB3Z2abaieC/HY/q1LcPGOa\nycMce4/6iT8D0mGIuIWc7EVk0CQnD22te1o/XbhUQX5Wcl22twqrQTv7r+QO8pI7\nISMxF3n/AgMBAAECggEACIAePcGhcuCoqZBf8ghnmmFMC0MzRmb4IYr49nAFGzga\nwLQOOzEUzKU8Bulf2ug41CzX/Hc1AuUzmdTKTwLrYGm6OVSq72RLnuNpWBqXT/Aj\ndYKHgGZuyQxOfAhP56I0xjN+wLARvp8vQ4ZKmuu+p1/ywIINOGOPf1EOI5C9+XsN\nqx2G2Npknp6eW/24joarUUgPgxyzuXAgxEC49S1zlFBZsJG46WNrOiEcl4KM9+cb\nFzwo0dj46El7mF+FqTtIWLJg0kT+MA7qdLlcW6vXST1d/97bmSEs2puq2mAGQV2c\nV1AtQcuC3sBUydg2y1eHiIuat6z6fge8t8yrWEVhtQKBgQDATmfCmrVWnGaOqvOo\nFcfKiKdwuGP/4x80p92UvTzO8KKHn7v1xbEJV6L7FmWbNUV/OddRdd/41/Za26gY\nNBWL1VpOnXJPOby3e21WkTw1QzasLqImnyD41WndgOATFL27wGYr+VFD4h+XE33S\nnSVsstwDDOMMfvmaoJlsW0oCQwKBgQC8M7af1HUzD+39amRjaqhTl6iPbLXe7dXi\n1iGtdi6CXcHLNPZZhwKeujcA3v4OEhpJcKLLCzsQiju6Z6tLXcBqLNr/zLkIgQB3\nnt6UK90pE5jqpuBrxJu9xy7k4gd6hOVh9RrcWlVNzmdygWuV0NFjwWzGHnkGRcxq\nqB2MvacjlQKBgG2At+jCO5wT9voqMhB2Rov3gJDZDmg5Jh3PsIbvst6Le6EKvfbX\nGVYehvm+6SCWFvq5Lvh9zIlgQDHAflk530L+vCujz+F5GRLJv5rZnJUfrtQgwciI\nODg5Hc05g16aIuf0SLmlgDbNXfui57S0MwlQV6ONBQSqkOsRpAtleCENAoGAQEhl\nm4glE/Df+EwLyA1ZO1w03fBi2qdgBB/h1u7kCfFeTTtk3cWItpCiUvDX1BSI2Aba\nBAJtBURCDHR2hMKcA2gY0YCqvuXZNAKWwgONggdIlvWy9/xqudK8CL/PkCCufNwM\ndbGBK5dRrEHaboypyKn7rlwgOG1E2jVcCoOJAFUCgYANZH+h1wce4gs/WQFgldqh\nLbFDMpvzZwFxjVICtKjEMYlpnlxrQiFhL7RPSo9wuw97i8SrrvRc3DDPZ4yVgovj\n7ZaLJWIhArVd6/mKOMOyCTpYrcPwYJraeD/5Ub124DiNJS5D7n1ZhA5uS13FenHY\nG7OdcRHu+EgRXdW2ENsqWg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "circlecibuild@finager-mobile-android.iam.gserviceaccount.com",
+  "client_id": "113375079882989294919",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/circlecibuild%40finager-mobile-android.iam.gserviceaccount.com"
+}
