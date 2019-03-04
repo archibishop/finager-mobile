@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">finager-mobile-android</string>
+
+
+    <string name="google_sign_in">SIGN IN WITH GOOGLE</string>
+    <string name="loading">LOADING</string>
+    <string name="google_sign_in_fail">GOOGLE SIGN IN FAILED</string>
+    <string name="google_sign_in_success">GOOGLE SIGN IN SUCCESSFUL</string>
+    <string name="app_phrase">One Stop Place For All</string>
+    <string name="app_phrase_2">Your Finances</string>
+
 </resources>
